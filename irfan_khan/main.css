@@ -1,4 +1,4 @@
-#bank-note {
+#picture {
     width: 912px;
     height: 389px;
     /* background: #ebeec7; */
@@ -9,7 +9,7 @@
     margin: 20px;
   }
   
-  #bank-note::before {
+  #picture::before {
     content: "";
     display: block;
     position: absolute;
