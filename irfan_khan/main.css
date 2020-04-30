@@ -1,0 +1,19 @@
+#bank-note {
+    width: 912px;
+    height: 389px;
+    /* background: #ebeec7; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 20px;
+  }
+  
+  #bank-note::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    color: #998;
+  }
